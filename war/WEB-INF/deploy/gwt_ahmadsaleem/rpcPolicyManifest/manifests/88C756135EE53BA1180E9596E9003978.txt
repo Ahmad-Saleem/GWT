@@ -1,0 +1,2 @@
+serviceClass: equation.client.GreetingService
+path: 735C48858F5D593B719F3B9D53B6460E.gwt.rpc
